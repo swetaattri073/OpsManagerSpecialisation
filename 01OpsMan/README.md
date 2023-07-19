@@ -1,6 +1,8 @@
 # Creates MongoDB Ops Manager deployment on AWS EC2 machines
 Spins up a 3 node OM deployment
 
+[![image-2.png](https://i.postimg.cc/RVX84kgJ/image-2.png)](https://postimg.cc/JGHKQ2VR)
+
 ## Pre-requisites
 Install 
 
