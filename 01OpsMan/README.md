@@ -48,6 +48,3 @@ Once Infra is created by Terraform, the terraform resource that runs the ansible
 or run the playbook manually
 
     ansible-playbook -i ./ansible/ansible_inventory ./ansible/configure_om_playbook.yml
-
-## Authors
-- Kuber Gaur
